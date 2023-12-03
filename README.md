@@ -15,9 +15,7 @@ I'm Shabhnam Shaik from India, and I'm Frontend developer looking to leverage my
 <a href="https://www.linkedin.com/in/shaikshabhnam" target="_blank">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="https://naveensurya.hashnode.dev/" target="_blank">
-<img src="https://img.shields.io/badge/read%20my%20blogs%20on%20Hashnode-blue?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Hashnode" />
-</a>
+ 
 <a href="mailto:shabhnam9090@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
