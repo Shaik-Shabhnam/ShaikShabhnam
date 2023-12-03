@@ -1,6 +1,6 @@
 # ShaikShabhnam
 
-![gh-banner](https://user-images.githubusercontent.com/79559401/190482069-8a61eacb-091f-4fd1-a0ea-764e3dda2539.png)
+
 
 
 
