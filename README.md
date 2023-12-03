@@ -1,9 +1,5 @@
 # ShaikShabhnam
 
-
-
-
-
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm Shabhnam Shaik from India, and I'm Frontend developer looking to leverage my passion for building engaging products and user experiences. Skilled in JavaScript,Tailwind CSS, Git, HTML & CSS. With excellent communication skills and always ready to learn new skill sets, I am also a great team player and a self-starter that likes to engage in a logical thinking approach to problem-solving.
